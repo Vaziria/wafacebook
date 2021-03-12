@@ -1,0 +1,17 @@
+{
+    "name": "kampretcode/bambank",
+    "description": "backend pesan whatsapp",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Heri",
+            "email": "manorder123@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
